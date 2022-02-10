@@ -1,4 +1,4 @@
-package java_basics;
+package javaBasics;
 
 public class Methods {
     public static int sumTwoNumbers(int first, int second) {

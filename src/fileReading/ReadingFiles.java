@@ -1,4 +1,4 @@
-package filereading;
+package fileReading;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package or_basics;
+package OOPBasics;
 
 public class Earth {
 
